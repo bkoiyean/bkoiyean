@@ -8,6 +8,6 @@
 
 - ⚡ An online backend course brought me a more obvious picture about IT Developer. I then also created my first Web App: a completed E-commerce FX trading website.
 
-- 🤔 It looks like I was born with IT talent but working in business. So I'm looking for a right place to boost my IT career.
+- 🤔 I am passionate about IT but working in business. So I'm looking for a right place to boost my IT career.
   
 - 📫 How to reach me: kevin240au@gmail.com
