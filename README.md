@@ -10,4 +10,4 @@
 
 - 🤔 I am passionate about IT but working in business. So I'm looking for a right place to boost my IT career.
   
-- 📫 How to reach me: kevin240au@gmail.com
+- 📫 How to reach me: kien240vn@gmail.com
