@@ -4,10 +4,10 @@
 
 - 😄 I can solve Rubik’s Cube by myself and solve Fibonacci Sequence with time complexity: O (log n) with my own formula.
 
-- ⚡ In addition to can-do attitude, I learnt Python by myself to build an Auto Payment Approval software that can replace many staff to get the job done.
+- ⚡ With can-do attitude, I taught myself Python to build an Auto Payment Approval software that can replace many staff to get the job done.
 
-- ⚡ An online backend course brought me a more obvious picture about IT Developer. I then also created my first Web App: a completed E-commerce FX trading website.
+- ⚡ An online backend course brought me a more obvious picture about IT. I then also created my first Web App: a completed E-commerce FX trading website.
 
-- 🤔 I am passionate about IT but working in business. So I'm looking for a right place to boost my IT career.
+- 🤔 With a passion for IT and strong background in business, I hope I can find a right place to utilise my skills in the best possible way.
   
 - 📫 How to reach me: kien240vn@gmail.com
