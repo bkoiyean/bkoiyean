@@ -8,6 +8,6 @@
 
 - ⚡ An online backend course brought me a more obvious picture about IT. I then also created my first Web App: a completed E-commerce FX trading website.
 
-- 🤔 With a passion for IT and strong background in business, I hope I can find a right place to utilise my skills in the best possible way.
+- 🤔 With a passion for IT, strong background in business and interest of helping people, I hope I can find a right place to utilise my skills in the best possible way not only to fulfil my career but also to benefit the community.
   
 - 📫 How to reach me: kien240vn@gmail.com
